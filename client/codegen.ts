@@ -1,7 +1,7 @@
 import { CodegenConfig } from "@graphql-codegen/cli";
 
 const config: CodegenConfig = {
-  schema: "http://localhost:4000",
+  schema: "https://shocking-spooky-hobgoblin-x5469966rjcp46r-4000.app.github.dev",
   documents: ["src/**/*.tsx"],
   generates: {
     "./src/__generated__/": {
