@@ -1,0 +1,22 @@
+{
+  "[javascript]": {
+    "editor.inlineSuggest.enabled": false,
+    "editor.quickSuggestions": {
+      "comments": false,
+      "other": false,
+      "strings": false
+    },
+    "editor.suggestOnTriggerCharacters": false
+  },
+  "[typescript]": {
+    "editor.inlineSuggest.enabled": false,
+    "editor.quickSuggestions": {
+      "comments": false,
+      "other": false,
+      "strings": false
+    },
+    "editor.suggestOnTriggerCharacters": false
+  },
+  "javascript.suggest.autoImports": true,
+  "typescript.suggest.autoImports": true
+}
