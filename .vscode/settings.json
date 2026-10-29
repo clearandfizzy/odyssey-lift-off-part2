@@ -17,6 +17,6 @@
     },
     "editor.suggestOnTriggerCharacters": false
   },
-  "javascript.suggest.autoImports": true,
-  "typescript.suggest.autoImports": true
+  "js.suggest.autoImports": true,
+  "ts.suggest.autoImports": true
 }
